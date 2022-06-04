@@ -126,7 +126,7 @@ Project Link: [https://github.com/Dpolar96/Text-Adventure-Game](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Dpolar96/Group-Text-Analytics-project-with-R.svg?style=for-the-badge
 [issues-url]: https://github.com/Dpolar96/Group-Text-Analytics-project-with-R/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/diego-polar-velasquez-3bbbb9154/
