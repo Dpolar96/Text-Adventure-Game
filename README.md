@@ -27,18 +27,16 @@
 <br />
 <div align="center">
   <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Text Adventure Game</h3>
 
   <p align="center">
-    project_description
+    First experience using Python to design a simple application
     <br />
     <a href="https://github.com/Dpolar96/Text-Adventure-Game"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/Dpolar96/Group-Text-Analytics-project-with-R](https://github.com/Dpolar96/Text-Adventure-Game)">View Demo</a>
     ·
     <a href="https://github.com/Dpolar96/Text-Adventure-Game/issues">Report Bug</a>
     ·
