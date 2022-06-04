@@ -63,10 +63,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -94,20 +91,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-1. Line 16 and 17 must be updated to reflect a different topic of interest and connection to a different Mongo Database cluster (optional step)
-2. Line 52 and 83 must be updated to reflect local directory.
-3. Usage of Tableau is specific to the case scenario and reflects the information obtained from the MongoDB sample based on Airbnb.
-
 ### Prerequisites
 
 No prerequisites as the game is built using the base package included in the software.
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
